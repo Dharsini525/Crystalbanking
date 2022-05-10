@@ -1,0 +1,34 @@
+.Page-logo{
+    height: 8vmin;
+    margin-left: 5%;
+    margin-top: 1%;
+  }
+  .Page-testContents{
+    margin-left: 15%;
+    margin-top: 2%;
+    font-size: 500%;
+    font-family: 'Bahnschrift Condensed';
+    font-weight: bold;
+    position: absolute;
+  }
+  .Page-textContent2{
+    color: rgb(240, 108, 37);
+  }
+  .Main-cardView{
+    box-shadow: 0 5px 25px 0 rgba(0,0,0,0.08);
+    background-color: rgb(255, 255, 255);
+    border-radius: 1%;
+    padding: 2%;
+  
+  }
+  .Main-cardView h2{
+  font-family:'Latha' ;
+  }
+  .UserName{
+    font-family:'Bahnschrift Condensed' ;
+    font-size: xx-large;
+  }
+  .Accordion-header{
+    color: rgb(19, 64, 30);
+  }
+ 
